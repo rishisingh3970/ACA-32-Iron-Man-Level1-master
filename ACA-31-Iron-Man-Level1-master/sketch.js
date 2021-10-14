@@ -7,7 +7,7 @@ function preload() {
   ironmanImage = loadImage("images/iron.png");
   stoneImage = loadImage("images/stone.png");
 }
-
+console.log("hello rishi") 
 function setup() {
   createCanvas(1000, 600);
   bg = createSprite(580,300);
